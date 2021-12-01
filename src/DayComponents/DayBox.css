@@ -1,1 +1,1 @@
-.day_box{max-width:500px;height:100%;position:relative}.day_box .add_new_event{bottom:-13px;left:0;right:0;margin-left:auto;margin-right:auto;background:aliceblue;font-size:16px}
+.day_box{max-width:500px;height:100%;position:relative}.day_box .add_new_event{bottom:-20px;left:0;right:0;margin-left:auto;margin-right:auto}.modal_add_new_event{background:rgba(0,0,0,0.3);top:0;bottom:0;left:0;right:0}.modal_add_new_event .modal_little_add_new_event{width:18%;height:38%;margin-top:40px;border-radius:5px}
